@@ -28,7 +28,7 @@ export function loadGLTFModel(
         })
         resolve(obj)
       },
-      null,
+      undefined,
       function (error) {
         reject(error)
       }
