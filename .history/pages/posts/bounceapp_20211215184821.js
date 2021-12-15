@@ -29,7 +29,7 @@ import {
           <ListItem mb={4}>
             <Meta>Why</Meta>
             <span>For most creative people, asking for feedback is difficult. After all, who wants to open themselves up to criticism?
-            It&apos;s a vital part of the design process, though, and ultimately everybody on the team is better off for it.</span>
+            It's a vital part of the design process, though, and ultimately everybody on the team is better off for it.</span>
           </ListItem>
           <ListItem mb={4}>
             <Meta>HOW</Meta>

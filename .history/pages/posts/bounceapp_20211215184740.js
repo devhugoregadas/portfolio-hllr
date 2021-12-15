@@ -29,11 +29,11 @@ import {
           <ListItem mb={4}>
             <Meta>Why</Meta>
             <span>For most creative people, asking for feedback is difficult. After all, who wants to open themselves up to criticism?
-            It&apos;s a vital part of the design process, though, and ultimately everybody on the team is better off for it.</span>
+            It's a vital part of the design process, though, and ultimately everybody on the team is better off for it.</span>
           </ListItem>
           <ListItem mb={4}>
             <Meta>HOW</Meta>
-            <span>Bounce was designed to be easy to use, but if you&apos;re not quite sure how everything works we&apos;re here for you. Follow these simple steps:</span>
+            <span>Bounce was designed to be easy to use, but if you're not quite sure how everything works we're here for you. Follow these simple steps:</span>
           </ListItem>
           <ListItem mb={4}>
           <Meta>START</Meta>
@@ -52,7 +52,7 @@ import {
         <UnorderedList my={4}>
           <ListItem mb={4}>
               <Badge mr={2}>STEP 1</Badge>
-              <b>Grab a screenshot.</b> Type in the web page address and click the <b>&quot;Grab Screenshot&quot;</b> button.
+              <b>Grab a screenshot.</b> Type in the web page address and click the <b>&quot;Grab Screenshot"</b> button.
               <SimpleGrid mt={2} columns={1} gap={2}>
         <PostImage src="/images/contents/post-bounceapp-step1.jpg" alt="bounceapp" />
       </SimpleGrid>
@@ -84,7 +84,7 @@ import {
 
           <ListItem mb={4}>
               <Badge mr={2}>STEP 5</Badge>
-              <b>Make some notes.</b> Copy the URL that shows up under <b>&quot;Share this feedback&quot;</b> and put it anywhere you want.
+              <b>Make some notes.</b> Copy the URL that shows up under <b>"Share this feedback"</b> and put it anywhere you want.
         <SimpleGrid mt={2}>
               <PostImage src="/images/contents/post-bounceapp-step5.jpg" alt="bounceapp" />
         </SimpleGrid>
@@ -92,7 +92,7 @@ import {
   
           <ListItem mb={4}>
               <Badge mr={2}>STEP 6 </Badge>
-              <b>Watch it Bounce!</b> The people you&apos;ve shared your page with can make their own notes, save them, and bounce them!
+              <b>Watch it Bounce!</b> The people you've shared your page with can make their own notes, save them, and bounce them!
         <SimpleGrid mt={2}>
               <PostImage src="/images/contents/post-bounceapp-step6.jpg" alt="bounceapp" />
         </SimpleGrid>
