@@ -57,7 +57,7 @@ const Projects = () => (
         <SimpleGrid columns={[1, 1, 2]} gap={5}>
           <ProjectsGridItem
             title=""
-            thumbnail={thumbGoogleDocsNextjs}
+            thumbnail={}
             liveView=""
             githubSource=""
           />

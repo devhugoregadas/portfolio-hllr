@@ -53,11 +53,11 @@ const Projects = () => (
         </SimpleGrid>
       </Section>
 
-   <Section delay={0.5}>
+      {/* <Section delay={0.5}>
         <SimpleGrid columns={[1, 1, 2]} gap={5}>
           <ProjectsGridItem
             title=""
-            thumbnail={thumbGoogleDocsNextjs}
+            thumbnail={}
             liveView=""
             githubSource=""
           />
@@ -68,7 +68,7 @@ const Projects = () => (
             githubSource=""
           />
         </SimpleGrid>
-      </Section>
+      </Section> */}
     </Container>
   </Layout>
 )
