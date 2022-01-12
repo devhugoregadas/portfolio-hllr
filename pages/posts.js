@@ -3,7 +3,6 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { PostsGridItem } from '../components/grid-item'
 
-import thumbBounceApp from '../public/images/contents/post-bounceapp.png'
 import thumbVirusTotal from '../public/images/contents/post-virustotal.png'
 
 const Posts = () => (
@@ -15,7 +14,7 @@ const Posts = () => (
 
       <SimpleGrid columns={[1, 2, 2]} gap={6}>
         <Section>
-          <PostsGridItem id="bounceapp" title="Bounce App" thumbnail={thumbBounceApp}>
+          <PostsGridItem id="virustotal" title="Virus Total" thumbnail={thumbVirusTotal}>
           Full page screenshot on one click
           </PostsGridItem>
         </Section>
@@ -26,29 +25,29 @@ const Posts = () => (
         </Section>
 
         <Section delay={0.1}>
-        <PostsGridItem id="bounceapp" title="Bounce App" thumbnail={thumbBounceApp}>
+        <PostsGridItem id="virustotal" title="Virus Total" thumbnail={thumbVirusTotal}>
           An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section>
           <PostsGridItem
-            id="bounceapp"
-            title="Bounce App"
-            thumbnail={thumbBounceApp}
+            id="virustotal"
+            title="Virus Total"
+            thumbnail={thumbVirusTotal}
           >
             An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section delay={0.1}>
-        <PostsGridItem id="bounceapp" title="Bounce App" thumbnail={thumbBounceApp}>
+        <PostsGridItem id="virustotal" title="Virus Total" thumbnail={thumbVirusTotal}>
           An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section>
           <PostsGridItem
-            id="bounceapp"
-            title="Bounce App"
-            thumbnail={thumbBounceApp}
+            id="virustotal"
+            title="Virus Total"
+            thumbnail={thumbVirusTotal}
           >
             An Instagram clone with React and JavaScript!
           </PostsGridItem>
@@ -65,29 +64,29 @@ const Posts = () => (
 
       <SimpleGrid columns={[1, 2, 2]} gap={6}>
         <Section delay={0.3}>
-        <PostsGridItem id="bounceapp" title="Bounce App" thumbnail={thumbBounceApp}>
+        <PostsGridItem id="virustotal" title="Virus Total" thumbnail={thumbVirusTotal}>
           An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section>
           <PostsGridItem
-            id="bounceapp"
-            title="Bounce App"
-            thumbnail={thumbBounceApp}
+            id="virustotal"
+            title="Virus Total"
+            thumbnail={thumbvirustotal}
           >
             An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section delay={0.3}>
-        <PostsGridItem id="bounceapp" title="Bounce App" thumbnail={thumbBounceApp}>
+        <PostsGridItem id="virustotal" title="Virus Total" thumbnail={thumbVirusTotal}>
           An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section>
           <PostsGridItem
-            id="bounceapp"
-            title="Bounce App"
-            thumbnail={thumbBounceApp}
+            id="virustotal"
+            title="Virus Total"
+            thumbnail={thumbVirusTotal}
           >
             An Instagram clone with React and JavaScript!
           </PostsGridItem>
@@ -104,43 +103,43 @@ const Posts = () => (
 
       <SimpleGrid columns={[1, 2, 2]} gap={6}>
         <Section delay={0.5}>
-          <PostsGridItem id="bounceapp" title="Bounce App" thumbnail={thumbBounceApp}>
+          <PostsGridItem id="virustotal" title="Virus Total" thumbnail={thumbVirusTotal}>
           An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section>
           <PostsGridItem
-            id="bounceapp"
-            title="Bounce App"
-            thumbnail={thumbBounceApp}
+            id="virustotal"
+            title="Virus Total"
+            thumbnail={thumbVirusTotal}
           >
             An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section delay={0.5}>
-        <PostsGridItem id="bounceapp" title="Bounce App" thumbnail={thumbBounceApp}>
+        <PostsGridItem id="virustotal" title="Virus Total" thumbnail={thumbVirusTotal}>
           An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section>
           <PostsGridItem
-            id="bounceapp"
-            title="Bounce App"
-            thumbnail={thumbBounceApp}
+            id="virustotal"
+            title="Virus Total"
+            thumbnail={thumbVirusTotal}
           >
             An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section delay={0.6}>
-        <PostsGridItem id="bounceapp" title="Bounce App" thumbnail={thumbBounceApp}>
+        <PostsGridItem id="virustotal" title="Virus Total" thumbnail={thumbVirusTotal}>
           An Instagram clone with React and JavaScript!
           </PostsGridItem>
         </Section>
         <Section>
           <PostsGridItem
-            id="bounceapp"
-            title="Bounce App"
-            thumbnail={thumbBounceApp}
+            id="virustotal"
+            title="Virus Total"
+            thumbnail={thumbVirusTotal}
           >
             An Instagram clone with React and JavaScript!
           </PostsGridItem>
